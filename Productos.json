@@ -1,0 +1,92 @@
+[
+	{
+		"title": "Laptop Gamer Alienware M15",
+		"description": "Laptop gaming con procesador Intel Core i7, tarjeta gráfica NVIDIA",
+		"price": 1499.99,
+		"category": "Computacion",
+		"thumbnail": "imagen-url",
+		"stock": 20,
+		"code": "GAM001",
+		"id": 1
+	},
+	{
+		"title": "Monitor Curvo Samsung Odyssey G7",
+		"description": " Monitor gaming curvo de 27 pulgadas",
+		"price": 699.99,
+		"category": "Monitores",
+		"thumbnail": "imagen-url",
+		"stock": 15,
+		"code": "MON002",
+		"id": 2
+	},
+	{
+		"title": "Teclado Mecánico Corsair K95 RGB Platinum XT",
+		"description": "Teclado mecánico gaming con interruptores Cherry MX, retroiluminación RGB personalizada",
+		"price": 199.99,
+		"category": "Periféricos - Teclados",
+		"thumbnail": "imagen-url",
+		"stock": 30,
+		"code": "KEY003",
+		"id": 3
+	},
+	{
+		"title": "Ratón Inalámbrico Logitech G Pro X Superlight",
+		"description": "Raton",
+		"price": 149.99,
+		"category": "Perifericos-Ratones",
+		"thumbnail": "imagen-url",
+		"stock": 25,
+		"code": "RAT004",
+		"id": 4
+	},
+	{
+		"title": "Auriculares con Micrófono HyperX Cloud II",
+		"description": "Auriculares para gaming con sonido envolvente 7.1, almoha",
+		"price": 99.99,
+		"category": "Audio-Auriculares",
+		"thumbnail": "imagen-url",
+		"stock": 40,
+		"code": "AUR005",
+		"id": 5
+	},
+	{
+		"title": "Disco Duro Externo WD Black P10",
+		"description": "Disco duro externo de 2 TB para gaming, compatible",
+		"price": 89.99,
+		"category": "Almacenamiento-Discos duros externos",
+		"thumbnail": "imagen-url",
+		"stock": 50,
+		"code": "HDD006",
+		"id": 6
+	},
+	{
+		"title": "Tarjeta Gráfica ASUS ROG Strix RTX 3080",
+		"description": "Tarjeta gráfica de alta gama con 10 GB de memoria GDDR6X, iluminación RGB y refrigeración avanzada. Ideal para gaming yd.",
+		"price": 1199.99,
+		"category": "Componentes-Tarjetas Graficas",
+		"thumbnail": "imagen-url",
+		"stock": 10,
+		"code": "GPU007",
+		"id": 7
+	},
+	{
+		"title": "Memoria RAM Corsair Vengeance RGB Pro",
+		"description": "Kit de memoria RAM DDR4 de 16 GB (2 x 8 GB) con iluminación RGB dinámica. Optimizado para un rendimiento excepcional",
+		"price": 129.99,
+		"category": "Componentes-Memoria RAM",
+		"thumbnail": "imagen-url",
+		"stock": 35,
+		"code": "RAM008",
+		"id": 8
+	},
+	{
+		"title": "Impresora 3D Creality Ender 3 V2",
+		"description": "Impresora 3D",
+		"price": 269.99,
+		"category": "Impresora 3D",
+		"thumbnail": "imagen-url",
+		"stock": 1,
+		"code": "3DPR009",
+		"id": 9
+	}
+]
